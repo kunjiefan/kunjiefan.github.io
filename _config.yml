@@ -3,15 +3,15 @@ title: Website Title
 description: Website short description
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
-url: "https://yk-liu.github.io"  
+url: "https://kunjiefan.github.io"  
 
 
 # GitHub User settings
-username: Username
-github_username: github_username
+username: kunjiefan
+github_username: kunjiefan
 user_description: user_description
 user_title: user_title
-email: 
+email: nevergonefan@gmail.com
 
 # Blog Author settings
 author:
