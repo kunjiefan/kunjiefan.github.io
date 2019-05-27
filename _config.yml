@@ -1,6 +1,6 @@
 # Site settings
 title: Little thoughts
-description: Website short description
+description: Writing and coding the world
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
 url: "https://kunjiefan.github.io"  
@@ -15,14 +15,14 @@ email: nevergonefan@gmail.com
 
 # Blog Author settings
 author:
-  name:            
+  name: Kunjie Fan        
   picture:        
-  email:           
+  email:  nevergonefan@gmail.com      
   description:     
   twitter:
   facebook:
-  github:          
-  linkedin:
+  github:   kunjiefan.github.com   
+  linkedin:  
   clustrmap:      
 
 
