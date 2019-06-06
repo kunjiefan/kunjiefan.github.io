@@ -1,12 +1,29 @@
 ---
 title: Sample Post - Markdown Syntax
+<<<<<<< HEAD
 commentable: true
 Edit: 2018-11-14
+=======
+commentable: flase
+Edit: 2018-11-14T00:00:00.000Z
+>>>>>>> aa2c285f16ec11241488d9e3abddd39c8d37a6a4
 mathjax: true
 mermaid: true
 tags: tag1 tag2 tag3
 categories: sample post
-description: This is a sample post testing and demonstrating all the markdown syntaxes. In the description you can also use markdowns to do *A* **B** ***C*** and `D` and other stuff like a [link](https://yk-liu.github.io).
+description: >-
+  This is a sample post testing and demonstrating all the markdown syntaxes. In
+  the description you can also use markdowns to do *A* **B** ***C*** and `D` and
+  other stuff like a [link](https://yk-liu.github.io).
+comments:
+  - author:
+      type: github
+      displayName: kunjiefan
+      url: 'https://github.com/kunjiefan'
+      picture: 'https://avatars1.githubusercontent.com/u/32661877?v=4&s=73'
+    content: helloworld.
+    date: 2019-06-05T21:23:00.840Z
+
 ---
 
 This page's comment is disabled, scroll down to see.
